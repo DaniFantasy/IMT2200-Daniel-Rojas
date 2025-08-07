@@ -1,1 +1,2 @@
-# IMT2200-Daniel-Rojas
+# Licenciatura en ingenieria en ciencia de datos
+# Daniel Ivan Rojas
